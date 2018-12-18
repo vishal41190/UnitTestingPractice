@@ -8,7 +8,7 @@ return userList.indexOf(user) >= 0;
 return {
 isValidUserId
 
-}
+};
 
 }
 
